@@ -22,9 +22,9 @@ Autographi is a simple web application that allows users to create digital signa
 To get started with Autographi, follow these steps:
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/thekaranchauhan/autographi.git
-   ```
+  ```
+  git clone https://github.com/thekaranchauhan/autographi.git
+  ```
 
 2. Navigate to project directory:
   ```
